@@ -1,5 +1,5 @@
 # DCDT
-New Design Paradigm of Distortion Cost Function for Efficient JPEG Steganography
+New Design Paradigm of Distortion Cost Function for Efficient JPEG Steganography；Published in: Signal Processing；
 https://doi.org/10.1016/j.sigpro.2021.108319
 
 @article{SU2021108319,
